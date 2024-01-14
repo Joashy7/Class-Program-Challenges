@@ -1,0 +1,5 @@
+print(pow(6, 3))
+print(pow(-254, 5))
+print(pow(-12, -8))
+print(pow(5,3) % 4)
+print(pow(11,6) % 8)
