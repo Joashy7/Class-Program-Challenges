@@ -1,0 +1,42 @@
+Q1. Perform following operations
+a) print Hello Kitty
+b) add 10 and 5
+c) Evaluate 13**7
+d) Evaluate 13^7 and compare your answer to c) and explain your answer
+e) Use // to perform (-7/2)
+f) Evaluate 20 - 10 * 36 + 3 *52
+g) convert 3.1415 to integer
+h) print true or false for statement 30>= 30
+i) create a string DonaldDaisyDuck
+	1) print DonaldDaisyDuck
+	2) print 5th character
+	3) print 4th character to 9th chracter
+	4) print DonaldDaisyDuck with all upper case
+	5) print DonaldDaisyDuck *3
+j) Assign 124 to mickey and 369 to minnie. Then add mickey & minnie and then multiply to 13
+k) Demonstrate a & b and a AND b using a=8 and b=10. Explain your answer
+l) Ask user for two integers then find the sum. Be sure to print the result as "The sum is:"
+m) Let myscore = 85. Then print the result as "I scored 85 points" using Embedding values
+n) Ask user to enter two numbers then calculate the sum and print the result as The sum is:
+o) import statistics.
+   Then, ask user to enter three numbers then calculate the mean and median of three entered numbers. print each user entered value. 
+   print the result as The mean is: & The Median is:
+p) Write python statement that demonstrates if a person is age older than 12 and less than 20 then the person is teenager. 
+   Assign person is 14 years old. Use logical operator to print result
+q) 	a = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4]
+	b = set(a)
+	print(len(a) - len(b)) What is the result?
+r) Define a Dictionary, population that provides information on the world's largest cities. The key is the name of a city (a string), and the associated
+   value is its population in millions of people.
+
+   Key     |   Value
+ Shanghai  |   17.8
+ Istanbul  |   13.3
+ Karachi   |   13.0
+ Mumbai    |   12.5
+
+
+Q2. Compute and print the sum of three user-entered numbers
+Q3. Draw a shape using python turtle. You must draw different shape other than you saw in class. Also, draw a shape with filled color. 
+For example, draw an Octagon and filled with yellow color.
+
